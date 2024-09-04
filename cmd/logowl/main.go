@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jz222/logowl/internal/server"
+	"github.com/navisidhu/logowl/internal/server"
 )
 
 func main() {

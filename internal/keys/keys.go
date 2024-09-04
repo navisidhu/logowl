@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/joho/godotenv"
-	"github.com/jz222/logowl/internal/models"
+	"github.com/navisidhu/logowl/internal/models"
 )
 
 const (

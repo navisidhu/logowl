@@ -13,11 +13,11 @@
 
 **Related Repositories:**
 
-💻 [**Log Owl Client**](https://github.com/jz222/logowl-client)
+💻 [**Log Owl Client**](https://github.com/navisidhu/logowl-client)
 
-📡 [**Log Owl NodeJS Adapter**](https://github.com/jz222/logowl-adapter-nodejs)
+📡 [**Log Owl NodeJS Adapter**](https://github.com/navisidhu/logowl-adapter-nodejs)
 
-🌐 [**Log Owl Browser Adapter**](https://github.com/jz222/logowl-adapter-browser)
+🌐 [**Log Owl Browser Adapter**](https://github.com/navisidhu/logowl-adapter-browser)
 
 ## About
 

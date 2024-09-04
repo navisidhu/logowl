@@ -2,9 +2,9 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jz222/logowl/internal/controllers"
-	"github.com/jz222/logowl/internal/middlewares"
-	"github.com/jz222/logowl/internal/store"
+	"github.com/navisidhu/logowl/internal/controllers"
+	"github.com/navisidhu/logowl/internal/middlewares"
+	"github.com/navisidhu/logowl/internal/store"
 )
 
 func userRoutes(router *gin.RouterGroup, store store.InterfaceStore) {

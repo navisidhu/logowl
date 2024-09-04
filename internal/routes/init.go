@@ -2,8 +2,8 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jz222/logowl/internal/middlewares"
-	"github.com/jz222/logowl/internal/store"
+	"github.com/navisidhu/logowl/internal/middlewares"
+	"github.com/navisidhu/logowl/internal/store"
 )
 
 func createSubrouter(prefix string, router *gin.Engine) *gin.RouterGroup {

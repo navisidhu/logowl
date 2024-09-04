@@ -1,4 +1,4 @@
-module github.com/jz222/logowl
+module github.com/navisidhu/logowl
 
 go 1.13
 

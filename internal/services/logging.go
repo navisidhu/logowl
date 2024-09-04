@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jz222/logowl/internal/models"
-	"github.com/jz222/logowl/internal/store"
-	"github.com/jz222/logowl/internal/utils"
+	"github.com/navisidhu/logowl/internal/models"
+	"github.com/navisidhu/logowl/internal/store"
+	"github.com/navisidhu/logowl/internal/utils"
 	"github.com/mssola/user_agent"
 	"go.mongodb.org/mongo-driver/bson"
 )

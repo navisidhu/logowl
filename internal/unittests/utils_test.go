@@ -3,7 +3,7 @@ package unittests
 import (
 	"testing"
 
-	"github.com/jz222/logowl/internal/utils"
+	"github.com/navisidhu/logowl/internal/utils"
 )
 
 func TestFormatTimestamp(t *testing.T) {

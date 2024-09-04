@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jz222/logowl/internal/keys"
-	"github.com/jz222/logowl/internal/models"
-	"github.com/jz222/logowl/internal/templates"
+	"github.com/navisidhu/logowl/internal/keys"
+	"github.com/navisidhu/logowl/internal/models"
+	"github.com/navisidhu/logowl/internal/templates"
 	"github.com/mailgun/mailgun-go/v4"
 )
 

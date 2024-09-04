@@ -2,8 +2,8 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jz222/logowl/internal/controllers"
-	"github.com/jz222/logowl/internal/store"
+	"github.com/navisidhu/logowl/internal/controllers"
+	"github.com/navisidhu/logowl/internal/store"
 )
 
 func loggingRoutes(router *gin.RouterGroup, store store.InterfaceStore) {

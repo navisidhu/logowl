@@ -5,9 +5,9 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/jz222/logowl/internal/keys"
-	"github.com/jz222/logowl/internal/models"
-	"github.com/jz222/logowl/internal/store"
+	"github.com/navisidhu/logowl/internal/keys"
+	"github.com/navisidhu/logowl/internal/models"
+	"github.com/navisidhu/logowl/internal/store"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

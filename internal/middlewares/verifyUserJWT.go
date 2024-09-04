@@ -7,10 +7,10 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
-	"github.com/jz222/logowl/internal/keys"
-	"github.com/jz222/logowl/internal/services"
-	"github.com/jz222/logowl/internal/store"
-	"github.com/jz222/logowl/internal/utils"
+	"github.com/navisidhu/logowl/internal/keys"
+	"github.com/navisidhu/logowl/internal/services"
+	"github.com/navisidhu/logowl/internal/store"
+	"github.com/navisidhu/logowl/internal/utils"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
